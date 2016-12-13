@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="HW5v2/HW5v2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS422/NoSeekMemoryStream.cs">
+    <Files>
+      <File FileName="HW5v2/Program.cs" Line="19" Column="13" />
+      <File FileName="CS422/NoSeekMemoryStreamTest.cs" Line="1" Column="1" />
+      <File FileName="CS422/ConcatStreamTest.cs" Line="1" Column="1" />
+      <File FileName="CS422/ConcatStream.cs" Line="255" Column="21" NotebookId="1" />
+      <File FileName="CS422/NoSeekMemoryStream.cs" Line="57" Column="14" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

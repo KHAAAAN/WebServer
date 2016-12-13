@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW10", "HW10\HW10.csproj", "{6C239325-DAF5-441F-961F-9EA633189B8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS422", "CS422\CS422.csproj", "{78B97E52-07AA-41A4-89BD-F72D7648AEC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C239325-DAF5-441F-961F-9EA633189B8F}.Debug|x86.ActiveCfg = Debug|x86
+		{6C239325-DAF5-441F-961F-9EA633189B8F}.Debug|x86.Build.0 = Debug|x86
+		{6C239325-DAF5-441F-961F-9EA633189B8F}.Release|x86.ActiveCfg = Release|x86
+		{6C239325-DAF5-441F-961F-9EA633189B8F}.Release|x86.Build.0 = Release|x86
+		{78B97E52-07AA-41A4-89BD-F72D7648AEC3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{78B97E52-07AA-41A4-89BD-F72D7648AEC3}.Debug|x86.Build.0 = Debug|Any CPU
+		{78B97E52-07AA-41A4-89BD-F72D7648AEC3}.Release|x86.ActiveCfg = Release|Any CPU
+		{78B97E52-07AA-41A4-89BD-F72D7648AEC3}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

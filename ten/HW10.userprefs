@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="HW10/HW10.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS422/BigNum.cs">
+    <Files>
+      <File FileName="HW10/Program.cs" Line="294" Column="58" />
+      <File FileName="CS422/BigNum.cs" Line="549" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

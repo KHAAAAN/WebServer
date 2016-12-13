@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="HW8/HW8.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS422/MemFSTest.cs">
+    <Files>
+      <File FileName="HW8/Program.cs" Line="16" Column="20" />
+      <File FileName="CS422/FileSystemDefs.cs" Line="856" Column="37" />
+      <File FileName="CS422/StdFSTest.cs" Line="242" Column="1" />
+      <File FileName="CS422/MemFSTest.cs" Line="217" Column="29" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

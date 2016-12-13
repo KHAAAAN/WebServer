@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="HW3/HW3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS422/WebServer.cs">
+    <Files>
+      <File FileName="HW3/Program.cs" Line="19" Column="3" />
+      <File FileName="CS422/WebServer.cs" Line="116" Column="4" />
+      <File FileName="CS422Test/WebServerTest.cs" Line="253" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

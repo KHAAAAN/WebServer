@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="HW13/HW13.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW13/Program.cs">
+    <Files>
+      <File FileName="HW13/Program.cs" Line="15" Column="6" />
+      <File FileName="CS422/FilesWebService.cs" Line="408" Column="28" />
+      <File FileName="CS422/WebRequest.cs" Line="1" Column="1" />
+      <File FileName="CS422/WebServer.cs" Line="1" Column="1" />
+      <File FileName="CS422/ConcatStream.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
